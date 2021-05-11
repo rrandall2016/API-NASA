@@ -1,0 +1,49 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 3em;
+    background-color: black;
+}
+
+h1 {
+    font-style: italic;
+    color: #373fff;
+    text-align: center;
+}
+
+img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content {
+    padding: 5%;
+    text-align: center;
+    font-family: 'Antonio', sans-serif;
+    color: rgba(255, 255, 255, 0.459);
+    font-size: 20px;
+    margin: 1%;
+    line-height: 2;
+}
+
+#Header-Search {
+    padding: 1%;
+    text-align: center;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+#start {
+    align: center;
+}
